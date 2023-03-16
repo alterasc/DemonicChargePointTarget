@@ -1,0 +1,14 @@
+﻿{
+  "AssemblyName": "DemonicChargePointTarget.dll",
+  "Author": "AlterAsc",
+  "DisplayName": "DemonicChargePointTarget",
+  "EntryMethod": "DemonicChargePointTarget.Main.Load",
+  "GameVersion": "2.1.0",
+  "HomePage": "https://github.com/alterasc/DemonicChargePointTarget/releases",
+  "Id": "DemonicChargePointTarget",
+  "ManagerVersion": "0.23.0",
+  "Repository": "https://raw.githubusercontent.com/alterasc/DemonicChargePointTarget/main/Repository.json",
+  "Requirements": [],
+  "LoadAfter": [],
+  "Version": "1.0.0"
+}
